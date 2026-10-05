@@ -1,8 +1,8 @@
 # Hi, I'm Moyuri 👋
 
-🎓 First-year BTEC Data Science & AI student
+🎓 First-year BTECH Data Science & AI student
 🔭 Currently learning: Python, data analysis, machine learning basics
-🌱 Preparing for university entrance (CUET)
+
 📫 Reach me: moyuridasroy@gmail.com
 
 ## 🛠 Skills
